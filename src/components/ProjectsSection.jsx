@@ -7,8 +7,8 @@ const projects = [
     description: "MERN app with auth, Stripe payments, and a responsive dashboard.",
     image: "/projects/project1.png",
     tags: ["MongoDB", "Express", "React", "Node.js", "JWT", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://dreamscapel.vercel.app/",
+    githubUrl: "https://github.com/Barath-ash/dreamscape",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["Node.js", "Express.js", "MongoDB", "JWT", "Insomnia"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Barath-ash/Subscription-Tracker-Api",
   },
   {
     id: 3,
@@ -25,8 +25,8 @@ const projects = [
     description: "React app using Firebase Auth and Firestore for data storage.",
     image: "/projects/project3.png",
     tags: ["React", "JavaScript", "Firebase", "Firestore"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://barath-pokedex.vercel.app/pokemon/1",
+    githubUrl: "https://github.com/Barath-ash/POKEDEX",
   },
 ];
 
